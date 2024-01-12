@@ -5,7 +5,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>*</members>
+        <members>test</members>
         <name>ApexClass</name>
     </types>
     <types>
